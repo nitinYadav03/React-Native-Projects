@@ -104,6 +104,9 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     padding: 10,
+    backgroundColor: '#DDDDDD',
+    margin: 5,
+    borderRadius: 10,
   },
   userInfo: {
     marginLeft: 10,
